@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<h1>Ankur Shinde</h1>
-
 <h3>Machine Learning | Agentic AI | AI In Business, Finance & Economics</h3>
 
 <p align="center">
