@@ -1,11 +1,19 @@
 <img src="assets/banner.png" width="100%" alt="Ankur Shinde Desktop Mockup">
 
-# 📂 C:\Users\Ankur
-
-├── 📁 **[Projects](https://github.com/ankurshnde?tab=repositories)**  
-├── 📁 **[Open Source](https://github.com/ankurshnde)**  
-├── 📁 **[Research](https://ankurshinde.vercel.app/articles)**  
-├── 🌐 **[LinkedIn.url](https://www.linkedin.com/in/ankurshinde/)**  
-├── 🐦 **[X.url](https://x.com/ankurshn)**  
-├── 💼 **[Portfolio.url](https://ankurshinde.vercel.app/)**  
-└── 📧 **[Contact.url](mailto:ankurshinde.dev@gmail.com)**  
+<pre>
++------------------------------------------------------------------+
+| C:\Users\Ankur> whoami                                           |
+| ankur.exe [AI Engineer & Builder]                                |
++------------------------------------------------------------------+
+| C:\Users\Ankur> dir /b                                           |
+|                                                                  |
+|  [DIR]  <a href="https://github.com/ankurshnde?tab=repositories">Projects</a>                                                 |
+|  [DIR]  <a href="https://github.com/ankurshnde">Open Source</a>                                              |
+|  [DIR]  <a href="https://ankurshinde.vercel.app/articles">Research/Articles</a>                                        |
+|  [URL]  <a href="https://www.linkedin.com/in/ankurshinde/">LinkedIn.url</a>                                             |
+|  [URL]  <a href="https://x.com/ankurshn">X.url</a>                                                    |
+|  [URL]  <a href="https://ankurshinde.vercel.app/">Portfolio.url</a>                                            |
+|  [URL]  <a href="mailto:ankurshinde.dev@gmail.com">Contact.url</a>                                              |
+|                                                                  |
++------------------------------------------------------------------+
+</pre>
