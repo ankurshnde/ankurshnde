@@ -1,19 +1,20 @@
 import os
 
-def make_line(left_part, visual_center, right_border=" |", width=68, html_center=None):
+def make_line(left_part, visual_center, right_border=" |", width=80, html_center=None):
     center_text = html_center if html_center is not None else visual_center
     visual_len = len(left_part) + len(visual_center) + len(right_border)
     spaces_needed = width - visual_len
     return f"{left_part}{center_text}" + " " * spaces_needed + right_border
 
 def generate():
-    width = 68
+    width = 80
     border_top_bottom = "+" + "-" * (width - 2) + "+"
     border_middle = "+" + "-" * (width - 2) + "+"
 
     lines = []
     lines.append('<img src="assets/banner.png" width="100%" alt="Ankur Shinde Desktop Mockup">')
     lines.append('')
+    lines.append('<div align="center">')
     lines.append('<pre>')
     lines.append(border_top_bottom)
     
@@ -47,6 +48,7 @@ def generate():
     lines.append(make_line("|", "", right_border="|"))
     lines.append(border_top_bottom)
     lines.append('</pre>')
+    lines.append('</div>')
     lines.append('')
     
     readme_path = os.path.join(os.path.dirname(__file__), "README.md")
