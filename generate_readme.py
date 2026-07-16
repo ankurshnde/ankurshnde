@@ -30,8 +30,7 @@ def generate():
     
     # Directory contents
     links = [
-        ("[DIR]", "Projects", "https://github.com/ankurshnde?tab=repositories"),
-        ("[DIR]", "Open Source", "https://github.com/ankurshnde"),
+        ("[DIR]", "Publications", "https://ankurshinde.vercel.app/publications"),
         ("[DIR]", "Research/Articles", "https://ankurshinde.vercel.app/articles"),
         ("[URL]", "LinkedIn.url", "https://www.linkedin.com/in/ankurshinde/"),
         ("[URL]", "X.url", "https://x.com/ankurshn"),
